@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "427055422690",
+    "firebase_url": "https://small-world-da3cb.firebaseio.com",
+    "project_id": "small-world-da3cb",
+    "storage_bucket": "small-world-da3cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427055422690:android:f49834834584a2b6",
+        "android_client_info": {
+          "package_name": "dennymades.space.smallworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427055422690-3o51j4matp17s1adjffp6jaqmoqkogte.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh1ogapoe707tKms-4oHWCidlHApFUyTQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
